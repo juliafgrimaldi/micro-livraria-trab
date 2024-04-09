@@ -236,3 +236,26 @@ git push origin main
 Este exercício prático, incluindo o seu código, foi elaborado por **Rodrigo Brito**, aluno de mestrado do DCC/UFMG, como parte das suas atividades na disciplina Estágio em Docência, cursada em 2020/2, sob orientação do **Prof. Marco Tulio Valente**.
 
 O código deste repositório possui uma [licença MIT](https://opensource.org/license/mit). O roteiro descrito acima possui uma licença [CC-BY](https://creativecommons.org/licenses/by/4.0/).
+
+
+## Diagramas
+
+Foram feitos a partir desta atividade os seguintes diagramas:
+
+- C1 - Diagrama de contexto:
+
+<p align="center">
+    <img width="70%" src="./images/Diagrama de contexto.jpg" />
+</p>
+
+- C2 - Diagrama de containers:
+
+<p align="center">
+    <img width="70%" src="./images/Diagrama de containers.jpg" />
+</p>
+
+- C3 - Diagrama de componentes:
+
+<p align="center">
+    <img width="70%" src="./images/Diagrama de componentes.jpg" />
+</p>
